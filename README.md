@@ -100,7 +100,8 @@ Add a submit button and Link Bootstrap JavaScript.
 </html>
 ```
 # OUTPUT:
-![A](/10%20a.png)
+![10 a](https://github.com/PREM3112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145449383/4c6dac86-9792-4b72-8fb3-850f2ec8a7df)
+
 
 
 # RESULT:
@@ -210,7 +211,8 @@ Link the Bootstrap JavaScript file at the end of the body.
 </html>
 ```
 # OUTPUT 10(2):
-![B](/10%20b.png)
+![10 b](https://github.com/PREM3112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145449383/58463b05-59a0-45a4-ad5a-73256f5d1e48)
+
 
 
 # RESULT:
@@ -298,7 +300,8 @@ Add a script to handle the form validation on submit.
     <button type="button" class="btn btn-success"> Submit </button>
 ```
 # OUTPUT 10(3):
-![C](/10%20c.png)
+![10 c](https://github.com/PREM3112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145449383/0b28c540-13de-4b67-a27c-fb858b0c75c3)
+
 
 # RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -397,7 +400,8 @@ Add a script to handle the form validation on submit.
 </html>
 ```
 # OUTPUT:10(4)
-![D](/10%20d.png)
+![10 d](https://github.com/PREM3112/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145449383/50d3f9b4-1500-4b0b-a9ce-7de9b7e89e53)
+
 
 
 # RESULT:
